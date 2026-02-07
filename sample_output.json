@@ -1,0 +1,8 @@
+{
+  "device_id": "AGRI_NODE_01",
+  "soil_moisture": 28,
+  "temperature": 33,
+  "humidity": 60,
+  "irrigation_status": "ON",
+  "alert": "Soil moisture low \u2013 irrigation required"
+}
